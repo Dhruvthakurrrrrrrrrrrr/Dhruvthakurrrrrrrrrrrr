@@ -1,3 +1,4 @@
+![readme_header](https://github.com/user-attachments/assets/6726dcc8-a05a-4a9a-a71b-2912f61a551a)
 # 💫 About Me:
 🌱 I’m currently learning Next js , REACT js , Data Analysis<br><br>👯 I’m looking to collaborate with like minded people<br><br>🤝 I’m interested in ‍ Collabrating in open source project<br><br>💬 Ask me about react ,html , css , sass ,javascript , C, C++, SQ
 
